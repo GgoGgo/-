@@ -1,7 +1,8 @@
 # Rate of demonstration, willpower to politics, rate of vote and protestant ethic
 
+**Caution!! : I work on RStudio not on native R**<br>
 All files are in the project folder<br>
-I analyze data by convert excel to csv and read that from R
+I analyze data by convert excel to csv and read that from R<br>
 
 ### Default data read and setting
 <hr>
